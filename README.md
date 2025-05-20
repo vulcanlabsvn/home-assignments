@@ -11,7 +11,7 @@ To comply with public health regulations during movie screenings, cinema seating
 
 - ✅ People in the **same group** can sit together without any distancing requirement.
 - ❌ **Different groups** must maintain a **minimum Manhattan distance** from each other.
-
+- 💡 Note: A group can consist of `one` or `multiple people`. People within the same group can sit next to each other without any distancing restriction. However, different groups must maintain the required minimum distance from each other.
 ---
 
 ## 📐 Manhattan Distance Formula
